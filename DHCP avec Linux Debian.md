@@ -6,7 +6,7 @@
 
 ---  
 
-#### CONFIG PLAGE   
+#### CONFIG PLAGE + RESERVATION   
 ![](DHCP/linux_img/dhcpconf.png)  
 
 ---  
