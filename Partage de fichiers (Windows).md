@@ -1,0 +1,29 @@
+## Partage de fichiers (Windows)
+
+### serveur de fichiers est correctement installé et configuré
+![](WINDOWS/partagesmb/srvconfig.png) 
+![](WINDOWS/partagesmb/structuredoc.png) 
+
+### partage "Docs" accessible depuis le réseau
+![](WINDOWS/partagesmb/partage.png) 
+### lister les partages et mapper le lecteur
+![](WINDOWS/partagesmb/listerpartage.png) 
+![](WINDOWS/partagesmb/mapage.png) 
+
+### Les permissions NTFS
+### permission sur Documents_Entreprise 
+![](WINDOWS/partagesmb/permissiondocumentsentreprise .png) 
+### permission sur RH
+![](WINDOWS/partagesmb/permissionrh.png) 
+### permission sur Comptabilité
+![](WINDOWS/partagesmb/permisioncompta.png) 
+### permission sur Direction
+![](WINDOWS/partagesmb/permissiondirection.png) 
+
+### les Interdictions 
+### Interdiction pour Comptabilité
+![](WINDOWS/partagesmb/usercomptainterdiction.png) 
+
+### Interdiction pour RH
+![](WINDOWS/partagesmb/userrhinterdiction.png) 
+
