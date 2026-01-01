@@ -3,6 +3,7 @@
 ![](DNS/DNS_dig/a.png) 
 
 addrese ip site :
+
 ![](DNS/DNS_dig/ipa.png) 
 
 ### les adresses IPV6
@@ -10,7 +11,10 @@ addrese ip site :
 ![](DNS/DNS_dig/aaaa.png) 
 
 addrese ip site :
+
 ![](DNS/DNS_dig/ipaaaa.png)
+
+et l'hébergeur est Google Cloud
 
 
 ### (Bonus) les noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.com et le serveur primaire. 
