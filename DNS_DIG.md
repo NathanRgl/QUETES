@@ -13,8 +13,11 @@ wilder@UBU01:~$ dig A www.wildcodeschool.com
 
 
 
-### les adresses IP version 6 d'odyssey et en déduire l'hébergeur de ton fournisseur de quête préféré wilder@UBU01:~$ dig AAAA odyssey.wildcodeschool.com
+### les adresses IP version 6 d'odyssey et en déduire l'hébergeur de ton fournisseur de quête préféré 
 
+
+
+wilder@UBU01:~$ dig AAAA odyssey.wildcodeschool.com
 
 ; <<>> DiG 9.18.39-0ubuntu0.24.04.2-Ubuntu <<>> AAAA odyssey.wildcodeschool.com ;; global options: +cmd ;; Got answer: ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6745 ;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
 
@@ -27,9 +30,11 @@ wilder@UBU01:~$ dig A www.wildcodeschool.com
 
 
 
-### (Bonus) les noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.com et le serveur primaire. wilder@UBU01:~$ dig @9.9.9.9 A www.wildcodeschool.com
+### (Bonus) les noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.com et le serveur primaire. 
 
 
+
+wilder@UBU01:~$ dig @9.9.9.9 A www.wildcodeschool.com
 
 ; <<>> DiG 9.18.39-0ubuntu0.24.04.2-Ubuntu <<>> @9.9.9.9 A www.wildcodeschool.com ; (1 server found)
 
