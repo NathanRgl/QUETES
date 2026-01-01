@@ -14,7 +14,7 @@ addrese ip site :
 
 ![](DNS/DNS_dig/ipaaaa.png)
 
-et l'hébergeur est Google Cloud
+et l'hébergeur est Google 
 
 
 ### (Bonus) les noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.com et le serveur primaire. 
